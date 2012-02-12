@@ -6,6 +6,11 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 as followed along and executed by [bkm-mahashoy](https://github.com/bkm-mahashoy/ample-sap)
 
+heroku create --stack cedar
+Creating high-dusk-7601... done, stack is cedar
+http://high-dusk-7601.herokuapp.com/ | git@heroku.com:high-dusk-7601.git
+Git remote heroku added
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create

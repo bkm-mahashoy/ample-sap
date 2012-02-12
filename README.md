@@ -4,7 +4,7 @@ This is the sample application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
-(as followed along and executed by [bkm-mahashoy])
+as followed along and executed by [bkm-mahashoy](https://github.com/bkm-mahashoy/ample-sap)
 
 == Welcome to Rails
 

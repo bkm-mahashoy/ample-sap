@@ -1,0 +1,6 @@
+#   git config --global core.excludesfile ~/.gitignore_global
+/.bundle
+/db/*.sqlite3
+/log/*.log
+/tmp
+**/*~

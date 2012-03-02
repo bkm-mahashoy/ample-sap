@@ -1,0 +1,52 @@
+.container {
+  width: 710px;
+}
+
+header {
+  padding-top: 20px;
+}
+
+header image {
+  padding: 1em;
+}
+
+section {
+  margin-top: 1em;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.2em 0;
+}
+
+nav ul li a {
+  padding: 0 5px;
+}
+
+a.signup_button {
+  border: 1px solid #006400;
+  padding: 3px;
+}
+
+.round {
+  border-radius: 3px;
+}

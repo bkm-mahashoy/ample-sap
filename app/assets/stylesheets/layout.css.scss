@@ -1,0 +1,64 @@
+$full-width: 710px;
+$background-color: #e9ffd3;
+
+.container {
+  width: $full-width;
+  background: $background-color;
+  padding-bottom: 1em;
+}
+
+header {
+  padding-top: 20px;
+
+  img {
+    padding: 1em;
+  }
+}
+
+section {
+  margin-top: 1em;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+nav {
+  float: right;
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style-type: none;
+      display: inline-block;
+      padding: 0.2em 0;
+
+      a {
+        padding: 0 5px;
+      }
+    }
+  }
+}
+
+a.signup_button {
+  border: 1px solid #006400;
+  padding: 5px;
+  color: #666666;
+  background-color: #ffd277;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.round {
+  border-radius: 3px;
+}
+
+footer {
+}

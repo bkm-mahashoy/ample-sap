@@ -7,6 +7,7 @@ gem 'haml'
 group :development do
   gem 'rspec-rails'
   gem 'sqlite3'
+  gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
 end
 
 group :assets do
